@@ -1,2 +1,1 @@
-# Mobile-App
-Kids tracker
+# Mobile-App Kids tracker
